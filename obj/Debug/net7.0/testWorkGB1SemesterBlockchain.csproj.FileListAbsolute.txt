@@ -1,0 +1,15 @@
+/Users/leon/Geekbrains/1 четверть/testWorkGB1SemesterBlockchain/obj/Debug/net7.0/testWorkGB1SemesterBlockchain.csproj.AssemblyReference.cache
+/Users/leon/Geekbrains/1 четверть/testWorkGB1SemesterBlockchain/obj/Debug/net7.0/testWorkGB1SemesterBlockchain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leon/Geekbrains/1 четверть/testWorkGB1SemesterBlockchain/obj/Debug/net7.0/testWorkGB1SemesterBlockchain.AssemblyInfoInputs.cache
+/Users/leon/Geekbrains/1 четверть/testWorkGB1SemesterBlockchain/obj/Debug/net7.0/testWorkGB1SemesterBlockchain.AssemblyInfo.cs
+/Users/leon/Geekbrains/1 четверть/testWorkGB1SemesterBlockchain/obj/Debug/net7.0/testWorkGB1SemesterBlockchain.csproj.CoreCompileInputs.cache
+/Users/leon/Geekbrains/1 четверть/testWorkGB1SemesterBlockchain/bin/Debug/net7.0/testWorkGB1SemesterBlockchain
+/Users/leon/Geekbrains/1 четверть/testWorkGB1SemesterBlockchain/bin/Debug/net7.0/testWorkGB1SemesterBlockchain.deps.json
+/Users/leon/Geekbrains/1 четверть/testWorkGB1SemesterBlockchain/bin/Debug/net7.0/testWorkGB1SemesterBlockchain.runtimeconfig.json
+/Users/leon/Geekbrains/1 четверть/testWorkGB1SemesterBlockchain/bin/Debug/net7.0/testWorkGB1SemesterBlockchain.dll
+/Users/leon/Geekbrains/1 четверть/testWorkGB1SemesterBlockchain/bin/Debug/net7.0/testWorkGB1SemesterBlockchain.pdb
+/Users/leon/Geekbrains/1 четверть/testWorkGB1SemesterBlockchain/obj/Debug/net7.0/testWorkGB1SemesterBlockchain.dll
+/Users/leon/Geekbrains/1 четверть/testWorkGB1SemesterBlockchain/obj/Debug/net7.0/refint/testWorkGB1SemesterBlockchain.dll
+/Users/leon/Geekbrains/1 четверть/testWorkGB1SemesterBlockchain/obj/Debug/net7.0/testWorkGB1SemesterBlockchain.pdb
+/Users/leon/Geekbrains/1 четверть/testWorkGB1SemesterBlockchain/obj/Debug/net7.0/testWorkGB1SemesterBlockchain.genruntimeconfig.cache
+/Users/leon/Geekbrains/1 четверть/testWorkGB1SemesterBlockchain/obj/Debug/net7.0/ref/testWorkGB1SemesterBlockchain.dll
